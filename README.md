@@ -1,11 +1,5 @@
-<p align="center">
- <img align="center" width="750" height="250" src="https://user-images.githubusercontent.com/102048764/172611446-be019b24-c0a6-42f2-91fc-74e4a9dc7d56.jpg">
-</p>
-
-
-
 <h3> <p align="center">
-  Lee's CyberVets ePortfolio
+  BACS Journey
 </p> </h3>
 
  <p div{
@@ -14,7 +8,7 @@
 } 
 </p>
 <p align="center">
-Hello! and welcome to my ePortfolio, my name is Richard Lee, most people just call me Lee, here you will see my progession in learning the fundamentals of cybersecurity through the CMS CyberVets internship program. A little bit about me, I am about to finish my 5-year commitment with the Army where I am a criminal investigator, which is the Army version of the popular TV show NCIS. I hold a bachelor’s degree in criminal justice and master’s in digital forensic and cyber investigations. I am currently interning with the CMS CyberVets program where I am learning the basics of Cybersecurity. While I have no real background in Cybersecurity other than what I learned in School, CyberVets will help teach me the fundamental while I transition out of the military. While I am not learning, I enjoy playing video games and doing outdoor activities with my two dogs. Thanks for stopping by.
+Hello! and welcome to my ePortfolio, my name is Richard Lee, here you will see my progession in learning the fundamentals of cybersecurity as I work toward a Bachelors Degree in Cybersecurity from the SANS Technology Institute. While I have an interest in Cybersecurity and have taken 
  
 ---
  
