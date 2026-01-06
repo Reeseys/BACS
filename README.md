@@ -21,12 +21,6 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, here you will see m
  This would my first "competitive" CTF experience. Why the quotes? Well, I wasn't trying to be the top and there is no way I was skilled enough to make it to the top. However, the experience gained in a completitive enviornment helped me to focus and try not to make too many mistakes. 
 </p>
 
-Wiki Quick Links
-
- * [LinkedIn Profile](https://www.linkedin.com/in/yr-lee/)
- * [Resume](https://github.com/Reeseys/CyberVets_ePortfolio_C7/files/8572874/Resume_LEEv2.pdf)
-
-
 ---
  
  <h3> <p align="center">
