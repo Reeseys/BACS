@@ -13,12 +13,12 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, here you will see m
 ---
  
  <h3> <p align="center">
-  My Wiki Page
+  CTF Experience
 </h3>
 
 <p align="center">
   
- On my [Wiki-Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/wiki/About-Me) you can get to know who I am in a little more detail. I talk a little bit of what I did before I joined the military, what I did in the military, and what I am trying to do after the military. Below are just some quick links to get my information. 
+ This would my first "competitive" CTF experience. Why the quotes? Well, I wasn't trying to be the top and there is no way I was skilled enough to make it to the top. However, the experience gained in a completitive enviornment helped me to focus and try not to make too many mistakes. 
 </p>
 
 Wiki Quick Links
@@ -34,6 +34,3 @@ Wiki Quick Links
 </p> </h3>
 
 <p align="center">
-My projects page list some stuff that I am working on to improve my cybersecruity skills. These include include finding flags (CTF) in a platform called Escalate, I also keep a private daily log what some stuff I have learned during my internship with CMS.
-
-[Projects Page](https://github.com/Reeseys/CyberVets_ePortfolio_C7/projects?type=beta)
