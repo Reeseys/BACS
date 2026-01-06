@@ -24,7 +24,7 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, here you will see m
 ---
  
  <h3> <p align="center">
-  Projects Page
+  CTF Adventures
 </p> </h3>
 
 <p align="center">
