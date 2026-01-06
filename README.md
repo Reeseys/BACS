@@ -25,7 +25,8 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, here you will see m
  
  <h3> <p align="center">
   CTF Adventures
-   [NCL Fall 2025](https://github.com/Reeseys/CyberVets_ePortfolio_C7/files/8572874/Resume_LEEv2.pdf)
+    * [NCL Fall 2025](https://github.com/Reeseys/CyberVets_ePortfolio_C7/files/8572874/Resume_LEEv2.pdf)
+
 </p> </h3>
 
 <p align="center">
