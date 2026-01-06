@@ -1,5 +1,5 @@
 <h3> <p align="center">
-  BACS Journey
+  BACS Journey - Private 
 </p> </h3>
 
  <p div{
@@ -8,7 +8,7 @@
 } 
 </p>
 <p align="center">
-Hello! and welcome to my ePortfolio, my name is Richard Lee, here you will see my progession in learning the fundamentals of cybersecurity as I work toward a Bachelors Degree in Cybersecurity from the SANS Technology Institute. While I have an interest in Cybersecurity and have taken 
+Hello! and welcome to my ePortfolio, my name is Richard Lee, here you will see my progession in learning the fundamentals of cybersecurity as I work toward a Bachelors Degree in Cybersecurity from the SANS Technology Institute. While I have an interest in Cybersecurity and have taken courses and training opportunities in this field I would like to say I am more interested in the digital forensics of the realm. 
  
 ---
  
