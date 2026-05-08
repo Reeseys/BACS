@@ -26,7 +26,7 @@ Hello! and welcome to my ePortfolio, my name is Richard Lee, this portfolio show
  <h3> <p align="center">
    CTF Adventures
    
- * [NCL Fall 2025](https://github.com/Reeseys/BACS/blob/main/Individual%20Game%20Scouting%20Report%20-%20NCL%20Fall%202025.pdf)
+ * [NCL Fall 2025](https://github.com/Reeseys/BACS/blob/main/NCL%20Fall%202025%20-%20Individual.pdf)
  * [NCL Spring 2026](https://github.com/Reeseys/BACS/blob/main/NCL%20Spring%202026%20-%20Individual.pdf)
 
 </p> </h3>
