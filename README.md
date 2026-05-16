@@ -1,5 +1,5 @@
 <h3> <p align="center">
-  BACS Journey - Private 
+  BACS Journey 
 </p> </h3>
 
  <p div{
